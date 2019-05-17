@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: kwbot
+Version: 0.0.1
+Summary: Some useful functions
+Home-page: https://github.com/kuanweih/kwbot
+Author: Kuan-Wei Huang
+Author-email: kuanweih@andrew.cmu.edu
+License: UNKNOWN
+Description: # kwbot
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown

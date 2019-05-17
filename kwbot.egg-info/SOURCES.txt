@@ -1,0 +1,9 @@
+README.md
+setup.py
+kwbot/__init__.py
+kwbot/astro.py
+kwbot/tools.py
+kwbot.egg-info/PKG-INFO
+kwbot.egg-info/SOURCES.txt
+kwbot.egg-info/dependency_links.txt
+kwbot.egg-info/top_level.txt
